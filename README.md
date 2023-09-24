@@ -1,10 +1,11 @@
-### <div align="center">Hi there 👋</div>
-
-### <div align="center">I'm Enrik, a freelance backend developer 🚀</div>
-
-- 🖥 I’m currently student at 42Roma Luiss
-- 🌱 I’m currently learning something new
-- 📫 How to reach me: enrik.b94@gmail.com
+<div align="center">Hi there 👋</div>
+<br>
+<div align="center">I'm Enrik, a freelance backend developer 🚀</div>
+<br>
+- 🖥 I’m currently member at 42Roma Luiss<br>
+- 🌱 I’m currently learning something new<br>
+- 📫 How to reach me: enrik.b94@gmail.com<br>
+<br>
 <div align="left">
 	<table>
 		<tr>
@@ -29,17 +30,18 @@
 		</tr>
 	</table>
 </div>
-
-## Connect with me
-<div align="left">
-<a href="https://github.com/Wowbagger1994" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<br>
+Connect with me
+<br>
 <a href="https://linkedin.com/in/ebraho" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-
-
+<div align="left">
+<a href="https://github.com/Wowbagger1994" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<br>
+<br>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Wowbagger1994&&style=flat-square)
