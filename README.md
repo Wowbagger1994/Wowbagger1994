@@ -13,7 +13,7 @@
 		</tr>
 		<tr>
 			<a href="https://github.com/Wowbagger1994">
-				<img src="https://badge42.vercel.app/api/v2/cllds5gaf000608jj04fun34t/stats?cursusId=21&coalitionId=124" alt="ebraho's 42 stats" />
+				<img src="https://badge.mediaplus.ma/colorfulwaves/ebraho?1337Badge=off&UM6P=off" alt="ebraho's 42 stats" />
 			</a>
 		</tr>
 	</table>
